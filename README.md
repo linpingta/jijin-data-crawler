@@ -1,2 +1,9 @@
 # jijin_data_crawler
-partial crawl script for jijin data
+
+尽管天天基金提供了API可以直接获取基金数据，但获取如 基金经理评分，基金经理年限，管理基金量级等相对宏观信息并不容易； 这里提供了依赖网站相关js获取信息的功能
+
+## 效果
+
+
+
+## 使用
