@@ -20,5 +20,13 @@ pip3 install pandas / requests / execjs
 
     python3 jijin_data_crawler.py
 
+### 代码结果示例
+
+    ....
+    [connectionpool.py:228 - _new_conn Sat, 17 Jun 2023 08:57:16;DEBUG] Starting new HTTP connection (1): fund.eastmoney.com:80
+    [connectionpool.py:456 - _make_request Sat, 17 Jun 2023 09:02:00;DEBUG] http://fund.eastmoney.com:80 "GET /pingzhongdata/000054.js?v=20230617085716 HTTP/1.1" 200 None
+    [jijin_data_crawler.py:40 - extract_all_jijin_info Sat, 17 Jun 2023 10:40:36;DEBUG] current_idx:40
+    ....
 
 Have Fun~
+
