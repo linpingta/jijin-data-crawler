@@ -2,7 +2,7 @@
 
 尽管天天基金提供了API可以直接获取基金数据，但获取如 基金经理评分，基金经理年限，管理基金量级等相对宏观信息并不容易； 这里提供了依赖网站相关js获取信息的功能
 
-[![GitHub stars](https://img.shields.io/github/stars/linpingta/easy-tools-for-hand.svg?style=social&label=Star)](https://github.com/linpingta/jijin-data-crawler/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/linpingta/jijin-data-crawler.svg?style=social&label=Star)](https://github.com/linpingta/jijin-data-crawler/stargazers)
 [![Fork](https://img.shields.io/badge/-Fork-green?logo=github&style=for-the-badge)](https://github.com/linpingta/jijin-data-crawler/fork)
 [![Clone](https://img.shields.io/badge/Clone-HTTPS-blue.svg)](https://github.com/linpingta/jijin-data-crawler.git)
 
