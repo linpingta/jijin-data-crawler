@@ -32,5 +32,4 @@ pip3 install pandas / requests / execjs
     [jijin_data_crawler.py:40 - extract_all_jijin_info Sat, 17 Jun 2023 10:40:36;DEBUG] current_idx:40
     ....
 
-Have Fun~
-
+Good Luck~
